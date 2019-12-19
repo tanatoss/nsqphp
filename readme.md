@@ -43,14 +43,14 @@ following to your composer.json.
         ...
         "require": {
             ...
-            "davegardnerisme/nsqphp": "dev-master"
+            "tanatoss/nsqphp": "dev-master"
         }
         ...
     }
 
 You can also simply clone it into your project:
 
-    git clone git://github.com/davegardnerisme/nsqphp.git
+    git clone git://github.com/tanatoss/nsqphp.git
     cd nsqphp
     git submodule update --init --recursive
 
